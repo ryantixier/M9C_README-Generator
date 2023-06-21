@@ -1,38 +1,35 @@
-// THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-// THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-// WHEN I enter my email address
-
-// TODO: Include packages needed for this application
-
-// TODO: Create an array of questions for user input
-
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 const questions = [
   {
+    // Title section
     type: "input",
     name: "title",
     message: "What would you like to title your project?",
   },
   {
+    // Description section
     type: "input",
     name: "description",
     message: "How would you describe your project?",
   },
   {
+    // Installation section
     type: "input",
     name: "installation",
     message: "What steps need to be taken in order to install your project?",
   },
   {
+    // Usage section
     type: "input",
     name: "usage",
     message:
       "Please provide instructions for use; link relevant screenshots for clarification.",
   },
   {
+    // License section; options: MIT, Eclipse, Apache, IBM
     type: "list",
     name: "license",
     message: "Which license did you apply to your project?",
@@ -60,32 +57,34 @@ const questions = [
     ],
   },
   {
+    // Credits/Contributors section
     type: "input",
     name: "credits",
     message:
       "Please list any individuals, programs, and/or resources utilized in contribution to your project.",
   },
   {
+    // Tests section
     type: "input",
     name: "tests",
     message: "What testing measures did you utilize to check your code?",
   },
   {
+    // Contact section
     type: "input",
     name: "username",
     message: "What is your GitHub username?",
   },
   {
+    // Contact section
     type: "input",
     name: "email",
     message: "What is your email?",
   },
 ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
+// inputs data values into generateMarkdown.js template,
+// creates README file
 function init() {
   inquirer.prompt(questions).then((data) => {
     fs.writeFileSync("README.md", generateMarkdown(data));

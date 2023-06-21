@@ -1,39 +1,43 @@
-# test project
+# Test Project
 
-## Description
+  ## Description
 
-it's a test
+  This is a test of the functionality of the program
+  
+  ## Table of Contents
+  
+  If your README is long, add a table of contents to make it easy for users to find what they need.
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Contact](#contact)
+  
+  ## Installation
 
-## Table of Contents (Optional)
+  N/A
+  
+  ## Usage
+  
+  N/A
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+  
+  ## Contributors
+  
+  Tutoring
+  
+  ## License
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Tests
+  
+  N/A
+  
+  ## Contact
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-none
-
-## Usage
-
-just do the thing
-
-## Credits
-
-Mr Phil is cool
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Tests
-
-none
-
-## Questions
-
-ryantixier
-rt@input.net
+  ryantixier
+  ryan.m.tixier@gmail.com
+  
