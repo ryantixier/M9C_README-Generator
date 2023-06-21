@@ -1,12 +1,29 @@
-# M9C_README-Generator
+# README.md Generator
 
 ## Description
 
-This is a test of the functionality of the program
+See below for application details, and for screenshots of example responses and of the README.md file they generate; reference the YouTube link for a walkthrough demonstration of the application and its tests.
+
+### About the Application
+
+...
+
+### Screenshots
+
+Example of required input responses:
+
+![Sample inputs](...ADD LINK...)
+
+Example of generated README.md file, based on example input responses above:
+
+![Sample README.md file](...ADD LINK...)
+
+### Links
+
+Walkthrough Demo:
+...ADD YOUTUBE LINK...
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,19 +34,42 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-N/A
+The Node.js runtime environment is required to run the contents of this application. You can download Node.js here:
+https://nodejs.org/en
+
+After installing Node.js, the application will still require Inquirer.js to run. To set this up, initialize a node package, and then install the appropriate version of Inquirer.js; open a terminal and run the following commands, sequentially...
+
+```
+npm init -y
+
+npm install --save inquirer@^8.0.0
+```
 
 ## Usage
 
-N/A
+1. Open a terminal
+2. Navigate to the "Develop" folder in the repository
+3. Type the following command:
 
-## Contributors
+```
+node index.js
+```
 
-Tutoring
+4.
+5.
+6.
+
+A new README.md file will be generated within the "Develop" folder with user inputs.
+
+For information on how to test the code, see [Tests](#tests) below.
+
+## Credits
+
+The developer utilized tutoring available through the University of Denver's Full-Stack Coding Boot Camp for portions of the code; all other code was scripted by the repository owner (see [Contact](#contact) below for details).
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+N/A
 
 ## Tests
 
@@ -37,5 +77,8 @@ N/A
 
 ## Contact
 
-GitHub username: ryantixier
+GitHub Username: ryantixier
+
+GitHub Profile: https://github.com/ryantixier
+
 Email: ryan.m.tixier@gmail.com

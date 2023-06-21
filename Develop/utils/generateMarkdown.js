@@ -24,7 +24,6 @@ function generateMarkdown(data) {
   
   ${data.usage}
 
-  
   ## Contributors
   
   ${data.credits}
@@ -40,7 +39,9 @@ function generateMarkdown(data) {
   ## Contact
 
   GitHub Username: ${data.username}
+
   GitHub Link: https://github.com/ryantixier
+
   Email: ${data.email}
   
 `;

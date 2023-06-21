@@ -1,8 +1,8 @@
-# Test Project
+# Test
 
   ## Description
 
-  This is a test of the functionality of the program
+  Testing
   
   ## Table of Contents
   
@@ -21,7 +21,7 @@
   
   ## Usage
   
-  N/A
+  TBD
 
   
   ## Contributors
@@ -34,10 +34,11 @@
   
   ## Tests
   
-  N/A
+  None
   
   ## Contact
 
-  ryantixier
-  ryan.m.tixier@gmail.com
+  GitHub Username: ryantixier
+  GitHub Link: https://github.com/ryantixier
+  Email: ryan.m.tixier@gmail.com
   
