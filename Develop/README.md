@@ -1,8 +1,8 @@
-# Test
+# test
 
   ## Description
 
-  Testing
+  testing
   
   ## Table of Contents
   
@@ -17,16 +17,15 @@
   
   ## Installation
 
-  N/A
+  n/a
   
   ## Usage
   
   TBD
 
-  
   ## Contributors
   
-  Tutoring
+  tutoring
   
   ## License
   
@@ -34,11 +33,13 @@
   
   ## Tests
   
-  None
+  none
   
   ## Contact
 
   GitHub Username: ryantixier
+
   GitHub Link: https://github.com/ryantixier
+
   Email: ryan.m.tixier@gmail.com
   
