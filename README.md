@@ -6,17 +6,13 @@ See below for application details, and for screenshots of example responses and 
 
 ### About the Application
 
-...
+This application was created to help avoid the tedium of writing a README.md file from scratch; the application will generate a README.md template, and autopopulate the respective README fields based on user input in the terminal.
 
 ### Screenshots
 
 Example of required input responses:
 
-![Sample inputs](...ADD LINK...)
-
-Example of generated README.md file, based on example input responses above:
-
-![Sample README.md file](...ADD LINK...)
+![Sample inputs](/assets/Screenshot%202023-06-21%20at%205.53.35%20PM.png)
 
 ### Links
 

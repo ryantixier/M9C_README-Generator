@@ -1,8 +1,8 @@
-# test
+# TEST
 
   ## Description
 
-  testing
+  This is a test
   
   ## Table of Contents
   
@@ -17,7 +17,7 @@
   
   ## Installation
 
-  n/a
+  N/A
   
   ## Usage
   
@@ -25,7 +25,7 @@
 
   ## Contributors
   
-  tutoring
+  Tutoring
   
   ## License
   
@@ -33,7 +33,7 @@
   
   ## Tests
   
-  none
+  None
   
   ## Contact
 
