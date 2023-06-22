@@ -53,21 +53,21 @@ node index.js
 
 4. Follow the prompts to input the information you want included in your README.md file. You will be prompted to provide the following: ...
 
-... a title,
+   ... a title,
 
-... a description
+   ... a description
 
-... installation procedures
+   ... installation procedures
 
-... usage instructions
+   ... usage instructions
 
-... license information
+   ... license information
 
-... contributor information
+   ... contributor information
 
-... testing measures
+   ... testing measures
 
-... your github username as well as an email at which you can be reached
+   ... your github username as well as an email at which you can be reached
 
 5. A new README.md file will be generated within the "Develop" folder with autopopulated user inputs.
 
