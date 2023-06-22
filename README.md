@@ -17,7 +17,7 @@ Example of required input responses:
 ### Links
 
 Walkthrough Demo:
-...ADD YOUTUBE LINK...
+https://www.youtube.com/watch?v=2Mk_4NiyUM0
 
 ## Table of Contents
 
