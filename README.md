@@ -73,6 +73,8 @@ node index.js
 
 ## Credits
 
+Please reference the folder titled "source-code" for the starter code provided for the challenge assignment.
+
 The developer utilized tutoring available through the University of Denver's Full-Stack Coding Boot Camp for portions of the code; all other code was scripted by the repository owner (see [Contact](#contact) below for details).
 
 ## License
