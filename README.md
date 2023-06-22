@@ -53,7 +53,7 @@ node index.js
 
 4. Follow the prompts to input the information you want included in your README.md file. You will be prompted to provide the following: ...
 
-   ... a title,
+   ... a title
 
    ... a description
 
