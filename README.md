@@ -51,13 +51,25 @@ npm install --save inquirer@^8.0.0
 node index.js
 ```
 
-4.
-5.
-6.
+4. Follow the prompts to input the information you want included in your README.md file. You will be prompted to provide the following: ...
 
-A new README.md file will be generated within the "Develop" folder with user inputs.
+... a title,
 
-For information on how to test the code, see [Tests](#tests) below.
+... a description
+
+... installation procedures
+
+... usage instructions
+
+... license information
+
+... contributor information
+
+... testing measures
+
+... your github username as well as an email at which you can be reached
+
+5. A new README.md file will be generated within the "Develop" folder with autopopulated user inputs.
 
 ## Credits
 
