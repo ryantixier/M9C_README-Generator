@@ -1,42 +1,43 @@
-# TEST
+# Workday Scheduler
 
-## Description
+  ## Description
 
-This is a test
+  (Input Description/screenshots here)
+  
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Contact](#contact)
+  
+  ## Installation
 
-## Table of Contents
+  TBD
+  
+  ## Usage
+  
+  TBD
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Tests](#tests)
-- [Contact](#contact)
+  ## Contributors
+  
+  (Input source code note and tutoring note)
+  
+  ## License
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Tests
+  
+  TBD
+  
+  ## Contact
 
-## Installation
+  GitHub Username: ryantixier
 
-N/A
+  GitHub Link: https://github.com/ryantixier
 
-## Usage
-
-TBD
-
-## Contributors
-
-Tutoring
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Tests
-
-None
-
-## Contact
-
-GitHub Username: ryantixier
-
-GitHub Link: https://github.com/ryantixier
-
-Email: ryan.m.tixier@gmail.com
+  Email: ryan.m.tixier@gmail.com
+  
